@@ -1,0 +1,1 @@
+df["delivery_group"] = pd.cut(df["delivery_days"],bins=[-1,2,5,10,float("inf")],labels=["Fast","Normal","Slow","Very_Slow"])
