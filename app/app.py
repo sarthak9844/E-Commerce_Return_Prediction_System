@@ -297,7 +297,7 @@ with metric1:
     st.markdown("""
     <div class="info-card">
         <div class="metric-title">Model</div>
-        <div class="metric-value">Logistic Regression</div>
+        <div class="metric-value">Random Forest</div>
     </div>
     """, unsafe_allow_html=True)
 
@@ -321,7 +321,7 @@ with metric4:
     st.markdown("""
     <div class="info-card">
         <div class="metric-title">Decision Threshold</div>
-        <div class="metric-value">38%</div>
+        <div class="metric-value">43%</div>
     </div>
     """, unsafe_allow_html=True)
 
@@ -724,7 +724,7 @@ with how3:
     <div class="info-card">
 
 
-    Logistic Regression calculates the
+    Random Forest calculates the
     probability of the order being returned.
 
     </div>

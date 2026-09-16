@@ -39,10 +39,10 @@ for bar, count in zip(bars, counts):
     )
 
 plt.tight_layout()
-plt.show()
+# Save image
 plt.savefig(
     r"D:\PROJECT\E-commerce _Return_prediction_system\notebook\images\class_imbalance.png",
     dpi=300,
     bbox_inches="tight"
 )
-
+plt.show()
