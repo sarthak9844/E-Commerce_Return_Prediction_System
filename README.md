@@ -44,7 +44,7 @@ For this reason, I mainly looked at F1 score, precision, recall and the confusio
 
 I used the following plot to understand the imbalance:
 
-![Class Imbalance](images/class_imbalance.png)
+![Class Imbalance](notebook/images/class_imbalance.png)
 
 The plot makes the imbalance much easier to see.
 
