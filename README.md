@@ -48,6 +48,11 @@ I used the following plot to understand the imbalance:
 
 The plot makes the imbalance much easier to see.
 
+### App Dashboard
+
+![dashboard1](notebook/images/appImage1.png)
+![dashboard2](notebook/appImage2.png)
+
 ## Data Cleaning
 
 I first checked the dataset for missing values and duplicate rows.
