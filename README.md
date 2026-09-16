@@ -51,7 +51,7 @@ The plot makes the imbalance much easier to see.
 ### App Dashboard
 
 ![dashboard1](notebook/images/appImage1.png)
-![dashboard2](notebook/appImage2.png)
+![dashboard2](notebook/images/appImage2.png)
 
 ## Data Cleaning
 
